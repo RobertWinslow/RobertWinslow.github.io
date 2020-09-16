@@ -1,6 +1,8 @@
+--
 layout: page
 title: page
 permalink: /beans/
+--
 
 ## This is a test
 
