@@ -1,7 +1,7 @@
 ---
 layout: page
 title: page
-permalink: /beans2/
+permalink: /test/beans2/
 ---
 
 ## This is a test
