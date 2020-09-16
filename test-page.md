@@ -21,4 +21,4 @@ Seems that the above latex formatting isn't properly rendering
 Does inline like this $x^2$ work?
 
 
-<aside> Surely this won't work </aside>
+
