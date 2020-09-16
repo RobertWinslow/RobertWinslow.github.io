@@ -1,8 +1,8 @@
---
+---
 layout: page
 title: page
 permalink: /beans/
---
+---
 
 ## This is a test
 
@@ -10,5 +10,7 @@ permalink: /beans/
 * Is
 * A 
   * Test
+  
+  ------------------------------
   
 $$x^2$$
