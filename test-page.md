@@ -2,6 +2,7 @@
 layout: page
 title: page
 permalink: /beans/
+use_math: true
 ---
 
 ## This is a test
